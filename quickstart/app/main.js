@@ -1,4 +1,3 @@
-"use strict";
 // Imports for loading & configuring the in-memory web api
 var core_1 = require('@angular/core');
 var http_1 = require('@angular/http');
